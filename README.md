@@ -1,8 +1,8 @@
-# Project 3 - Twitter
+# Project 3 - Twit
 
-**Name of your app** is a basic twitter app to read your tweets.
+Twit is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## User Stories
 
